@@ -41,6 +41,23 @@
 	.col-01 h3 {
 		text-align: center;
 	}
+
+	.side-nav {
+		background: $blue;
+		width: 100%;
+		height: 100%;
+
+		li {
+			display: block ;
+		}
+	}
+
+	.side-nav li > a {
+		color: $white;
+		font-size: 2rem;
+		font-weight: 300;
+	}
+	
 }
 
 @media (max-width: 992px) {
