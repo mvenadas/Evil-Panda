@@ -1,0 +1,35 @@
+body {
+	background: $blue;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1 {
+	font-family: $secondary;
+	font-size: 4em;
+	color: $white;
+	text-transform: uppercase;
+}
+
+h2 { }
+
+h3 {
+	font-family: $primary;
+	font-size: 3em;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+}
+
+h4 {
+	font-family: $primary;
+}
+
+/*
+.row {
+	margin-bottom: 100px;
+}
+*/
+
+.horizontal-center {
+	text-align: center;
+}

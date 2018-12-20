@@ -1,0 +1,19 @@
+.btn {
+	background: transparent;
+	width: 16px;
+	height: 16px;
+	text-align: none;
+	letter-spacing: none;
+	display: inline-block;
+	padding: 0;
+	line-height: 0px;
+	vertical-align: none;
+	box-shadow: none;
+	position: relative;
+	top: -2px;
+}
+
+.btn:hover {
+	background: transparent;
+	box-shadow: none;
+}

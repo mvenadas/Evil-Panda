@@ -1,0 +1,97 @@
+@media (max-width: 600px) {
+	.section {
+		height: auto;
+	}
+	
+	.ep_hero_img {
+		img {
+			width: 100%;
+		}
+	}
+		
+	.hero-info {
+		top: 100%;
+		left: 0 !important;
+	}
+	
+	.hero-info img {
+		float: none;
+	}
+	
+	.hero-info h4 {
+		position: relative;
+	}
+	
+	.hero-info p {
+		text-align: center;
+	}
+	
+	.work {
+		margin-top: 200px;
+	}
+	
+	.ep-card {
+	    margin-top: 10%;
+	}
+	
+	.about {
+		text-align: center;
+	}
+	
+	.col-01 h3 {
+		text-align: center;
+	}
+}
+
+@media (max-width: 992px) {
+	.work p {
+		padding-left: 0;
+	}
+	
+	.about img {
+		top: 10px;
+		left: 0;
+	}
+	
+	.contact {
+		top: 0;
+	    margin: 0 0 25% 0;
+	}
+}
+
+@media (max-width: 1200px) {
+	.wrapper {
+		width: 90%;
+	}
+}
+
+@media (min-width: 1200px) {
+	.wrapper {
+		width: 95%;
+	}
+	
+	.splash img {
+		width: 65%;
+	}
+		
+	.ep_hero_img img {
+		width: 65%;
+		position: relative;
+		z-index: -9;
+		top: -66px;
+	}
+	
+	.about {
+		padding: 5% 0 0 2%;
+	}	
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+// Main Navigation
+.ep_logo {
+	color: $white;
+	letter-spacing: 0.06rem;
+}
+
+.ep_nav {
+	background: transparent;
+	box-shadow: none;
+	
+	img {
+		width: 54px;
+		height: 54px;
+	}
+}
+
+nav .button-collapse {
+	color: $white;
+	position: fixed;
+}
+
+.ep_nav_logo {
+	position: relative;
+	z-index: 9;
+	font-size: 1.3rem;
+	font-weight: 500;
+	
+	img {
+		width: 100%;
+		max-width: 130px;
+		height: auto;
+	}
+}
+
+.ep_nav_menu {
+	height: 65px;
+	text-align: right;
+}
+
+nav i.material-icons {
+	font-size: 34px;
+}
+
+// Side Menu
+.side-nav {
+	background: $blue;
+}
+
+.side-nav li > a {
+	color: $white;
+	font-size: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
