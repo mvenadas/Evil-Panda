@@ -15,25 +15,25 @@
 	padding: 0;
 	position: relative;
 	top: -5%;
-	
+
 	h1 {
 		margin: 0 auto;
 		display: block;
 	}
-		
+
 	img {
 		width: 50%;
 		height: auto;
 		display: block;
-		margin: 0 auto;	
+		margin: 0 auto;
 	}
-	
+
 	p {
 		color: $white;
 		font-family: $primary;
 		font-size: 1rem;
 		line-height: 10px;
-		
+
 	}
 }
 
@@ -43,18 +43,18 @@
 	top: 22%;
 	left: 5% !important;
 	position: absolute;
-	
+
 	img {
 		width: 47px;
 		height: auto;
 		float: left;
 		display: block;
 	}
-	
+
 	a {
 		color: $darkgrey;
 	}
-	
+
 	p {
 	    display: block;
 	    position: relative;
@@ -64,7 +64,7 @@
 	    line-height: 22px;
 	    letter-spacing: 0.06em;
 	}
-	
+
 	h4 {
 		color: #fff;
 	    text-transform: uppercase;
@@ -82,11 +82,11 @@
 	margin-top: 5%;
 	text-align: center;
 	color: $white;
-	
+
 	h3 {
 		margin: 0;
 	}
-		
+
 	p {
 		margin: 0;
 		font-family: $primary;
@@ -110,10 +110,10 @@
 	margin-top: 6%;
 }
 
-// Splash 
+// Splash
 .splash {
 	text-align: center;
-	
+
 	img {
 		width: 95%;
 		height: auto;
@@ -123,33 +123,33 @@
 // About Section
 .about {
 	padding: 5% 0 0 0;
-	
+
 	.col-01 {
 		text-align: left;
 	}
-	
+
 	h3 {
 		font-family: $primary;
 		margin: 0;
 		color: $white;
 	}
-	
+
 	h4 a {
 		font-weight: 500;
 		font-size: 1.2rem;
 		color: $darkgrey;
 	}
-	
+
 	.col-02 {
 		padding-left: 5px;
-		
+
 		img {
 			width: 100%;
 			max-width: 260px;
 			height: auto;
 		}
 	}
-	
+
 	p {
 		font-family: $primary;
 		color: $white;
@@ -161,13 +161,13 @@
 		letter-spacing: 0.02rem;
 		line-height: 1.5rem;
 	}
-	
+
 	img {
-		width: 100%;
+		width: 90%;
 		height: auto;
 		position: relative;
 		top: -93px;
-		left: -25px;
+		// left: -25px;
 		margin: 0 auto;
 	}
 }
@@ -175,20 +175,20 @@
 // Services
 .services {
 	margin-top: 5%;
-	
+
 	h3 {
 		color: $white;
 		padding-bottom: 25px;
 		margin: 0;
 	}
-	
+
 	h4 {
 		color: $white;
 		font-size: 2.2rem;
 		text-transform: uppercase;
 		font-weight: 700;
 	}
-	
+
 	li {
 		font-family: $primary;
 		color: $white;
@@ -196,7 +196,7 @@
 		display: block;
 		padding-bottom: 10px;
 	}
-	
+
 	img {
 		width: 16px;
 		height: 16px;
@@ -231,36 +231,36 @@
 	color: $white;
 	position: relative;
 	top: -100px;
-	
+
 	p {
 		font-family: $primary;
 	}
-	
+
 	span {
 		display: block;
 		font-family: $primary;
 		letter-spacing: 0.06em;
 		padding-bottom: 15px;
 	}
-	
+
 	a {
 		color: $white;
 	}
 }
 
 //Footer
-.ep-footer {	
+.ep-footer {
 	text-align: center;
 	position: relative;
     top: -50px;
-    
+
 	img {
 		width: 100%;
 		max-width: 130px;
 		height: auto;
 		margin: 0 auto;
 	}
-	
+
 	a {
 		color: $white;
 		font-size: 0.6rem;
@@ -270,7 +270,7 @@
 
 .social {
 	padding: 0 0 10px 0;
-	
+
 	img {
 		width: 27px;
 		height: 27px;
